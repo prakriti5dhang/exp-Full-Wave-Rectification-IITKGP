@@ -19,7 +19,7 @@
 
    Measure the $$V_m$$
 
-   $$V_{rms}=\frac{V_m}{\quad 2}$$
+   $$V_{rms}=\frac{V_m}{\sqrt 2}$$
 
    $$V_{dc}=\frac{2V_m}{π}$$
     
@@ -28,5 +28,5 @@
      
    Since, 
 
-   $$V_{ac}=\quad {(V_{rms}^2−V_{dc}^2)}$$
+   $$V_{ac}=\sqrt {(V_{rms}^2−V_{dc}^2)}$$
 

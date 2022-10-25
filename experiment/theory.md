@@ -194,9 +194,9 @@ F.F \geq 1
 
 ### Ripple Factor
 
-$$γ=\quad (F.F^2−1)×100\%$$
+$$\gamma= \sqrt ({F.F}^2-1 )\times 100\%$$
 
-$$γ=\quad (1.1^2−1)×100\%$$ $$=48.1%$$
+$$\gamma=\sqrt ({1.11}^2-1) \times 100\%=48.1\%$$
 
 Efficiency:It is defined as ratio of dc power available at the load to the input ac power.
 

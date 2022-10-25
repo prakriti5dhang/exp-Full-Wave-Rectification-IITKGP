@@ -74,12 +74,12 @@ The resulting waveform of the schematic is shown above. This configuration is ra
 A Full-Wave Rectifier can be constructed using Center-Tapped transformer – which give us two shifted sinusoids so that exactly one of the waveforms is positive at one time and two diodes. As compared to the half wave rectifier we use two diodes instead of one, one of the two diodes remains in conduction in both of the half cycles. At any point in time, only one of the diodes is forward biased. This allows for continuous conduction through load.
 
 <div align="center">
-<img src="images/fullr8.png" width="50%">
+<img src="images/fullr8.png" width="30%">
 <p>Figure 10  </p>
 </div>
 
 <div align="center">
-<img src="images/fullr9.png" width="50%">
+<img src="images/fullr9.png" width="30%">
 <p>Figure 11  </p>
 </div>
 

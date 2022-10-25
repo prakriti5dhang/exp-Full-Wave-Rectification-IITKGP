@@ -47,23 +47,23 @@ So, we have seen that this rectifier circuit consists of two sources which have 
 
 
 <div align="center">
-<img src="images/fullwavreccrt.png" width="80%">
+<img src="images/fullwavreccrt.png" width="50%">
 <p>Figure 6  </p>
 </div>
 
 ### Full Wave Rectifier – Waveforms
 
 <div align="center">
-<img src="images/fullwavg1.png" width="80%">
+<img src="images/fullwavg1.png" width="50%">
 <p>Figure 7  </p>
 </div>
 
 <div align="center">
-<img src="images/fullwavg2.png" width="80%">
+<img src="images/fullwavg2.png" width="50%">
 <p>Figure 8  </p>
 </div>
 <div align="center">
-<img src="images/fullwavg3.png" width="80%">
+<img src="images/fullwavg3.png" width="50%">
 <p>Figure 9  </p>
 </div>
 
@@ -177,12 +177,12 @@ $$I_{av}=\frac{2×I_m}{R}$$
 
 $$I=I_m×sinwt$$ for $$0≤wt≤π$$
 
-$$I_{rms}=\frac{I_m}{\quad{2}}$$
+$$I_{rms}=\frac{I_m}{\sqrt{2}}$$
 
 ### RMS Load Voltage
-$$V_{rms}=I_{rms}×R=\frac{I_m}{\quad{2}}×R$$
+$$V_{rms}=I_{rms}×R=\frac{I_m}{\sqrt{2}}×R$$
 
-$$V_{rms}=\frac{V_m}{\quad{2}}$$
+$$V_{rms}=\frac{V_m}{\sqrt{2}}$$
 
 **Form factor:** It is defined as the ratio of rms load voltage and average load voltage.
 
@@ -190,7 +190,7 @@ $$F.F=\frac{V_{rms}}{V_{av}}$$
 
 $$F.F=\frac{\frac{V_m}{\quad{2}}}{\frac{(2×V_m)}{π}}=\frac{π}{2\quad{2}}=1.11$$
 
-F.F \geq 1
+$$F.F \geq 1$$
 
 ### Ripple Factor
 
@@ -202,7 +202,7 @@ Efficiency:It is defined as ratio of dc power available at the load to the input
 
 n%=$$\frac{P_{load}}{P_{in}$$×100%
 
-n%=$$\frac{(I_{dc}^2×R)}{(I_{rms}^2×R)}×100%$$
+$$n\%=\frac{(I_{dc}^2×R)}{(I_{rms}^2×R)}×100\%$$
 
 $$n\%=\frac{\frac {4 \times I_{m}^2}{\pi^2}}{\frac{I_{m}^2}{2}}\times 100\%=\frac{8}{\pi^2}\times 100\% =81.13$$
 

@@ -214,29 +214,30 @@ For Bridge Rectifier,
 D1 and D2 is Forward Biased
 D3 and D4 is Reverse Biased
 
-V_m-V_O=0
-\Rightarrow V_O=V_m
+$$V_m-V_O=0$$
 
-V_O+PIV=0
+$$\Rightarrow V_O=V_m$$
 
-PIV=V_m
+$$V_O+PIV=0$$
 
-PIV \geq V_m
+$$PIV=V_m$$
+
+$$PIV \geq V_m$$
 
 For Center Tapped Rectifier,
 D2 is Forward Biased,
 PIV at D1,
 
-V_m−V_O=0
+$$V_m−V_O=0$$
  
 
-\Rightarrow V_O=V_m
+$$\Rightarrow V_O=V_m$$
 
-V_O−PIV+V_m
+$$V_O−PIV+V_m$$
 
-⇒PIV=2V_m
+$$⇒PIV=2V_m$$
 
-PIV \geq 2Vm
+$$PIV \geq 2Vm$$
 
 ### Note
 

@@ -19,14 +19,14 @@
 
    Measure the $$V_m$$
 
-    $$V_{rms}=\frac{V_m}{\quad{2}}$$
+   $$V_{rms}=\frac{V_m}{\quad{2}}$$
 
-    $$V_{dc}=\frac{2V_m}{π}$$
+   $$V_{dc}=\frac{2V_m}{π}$$
     
 
-    Ripple Factor= $$\frac{V_{ac}}{V_{dc}}$$
+   Ripple Factor= $$\frac{V_{ac}}{V_{dc}}$$
      
-     Since, 
+   Since, 
 
-     $$V_{ac}=\quad{(V_{rms}^2−V_{dc}^2)}$$
+   $$V_{ac}=\quad{(V_{rms}^2−V_{dc}^2)}$$
 

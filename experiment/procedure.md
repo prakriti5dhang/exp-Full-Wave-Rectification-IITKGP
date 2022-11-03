@@ -30,3 +30,4 @@
 
    $$V_{ac}=\sqrt {(V_{rms}^2−V_{dc}^2)}$$
 
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
